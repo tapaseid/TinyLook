@@ -1,2 +1,2 @@
 # TinyLook
-This is a project to create an website where to be posted some purpuseful documents.
+This is a project to create an website to post some purpuseful documents.
